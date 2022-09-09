@@ -1,5 +1,11 @@
 .head1 {
-  font-size: 36px;
-  color: green; 
+  font-size: 24px;
+  color: yellow;
+  background: red; 
   font-weight: 800;
+}
+
+.li1 {
+  color: yellow;
+  background: red;
 }
