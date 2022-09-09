@@ -1,15 +1,28 @@
 .headp {
 font-size: 24px;
-color: white;
-background; rgb(0,204,255);
+color: rgb(0,204,255);
 }
 
 .polop {
+font-size: 20px;
 color: white;
 background: rgb(0,204,255);
 }
 
 .lip {
+font-size: 20px;
 color: white;
 background: rgb(0,204,255);
 }
+
+.olp {
+background: rgb(0,204,255);
+color: white;
+font-size: 20px;
+font-weight: normal;
+}
+
+
+.imgp {
+height: auto;
+width: 500px
