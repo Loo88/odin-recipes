@@ -1,0 +1,28 @@
+.uld {
+color: yellow;
+background: red;
+font-size: 20px;
+}
+
+.old {
+font-weight: normal;
+font-size: 20px;
+color: yellow;
+background: red;
+}
+
+.img {
+width: 500px;
+height: auto;
+}
+
+.pd {
+font-size: 20px;
+color: yellow;
+background: red;
+}
+
+.hd {
+font-size: 24px;
+color: red;
+}
