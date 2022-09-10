@@ -1,0 +1,31 @@
+.hda {
+color: rgb(0,204,255);
+font-size: 24px;
+}
+
+.pda {
+font-size: 20px;
+color: white;
+background: rgb(0,204,255);
+}
+
+
+.imgda {
+width: 500px;
+height: auto;
+}
+
+
+.ulda {
+font-size: 20px;
+color: white;
+background: rgb(0,204,255);
+}
+
+
+.olda {
+font-weight: normal;
+color: white;
+background: rgb(0,204,255)
+font-size: 20px;
+}
