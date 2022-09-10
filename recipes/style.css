@@ -1,3 +1,5 @@
+**polo**
+
 .headp {
 font-size: 24px;
 color: rgb(0,204,255);
@@ -26,3 +28,29 @@ font-weight: normal;
 .imgp {
 height: auto;
 width: 500px
+
+
+**disanxian**
+
+.uld {
+font-size: 20px;
+color: yellow;
+background: red;
+}
+
+.old {
+font-size: 20px;
+font-weight: normal;
+color: yellow;
+background: red;
+}
+
+.imd {
+width: 500px;
+height: auto;
+}
+
+.hd {
+color: red;
+font-size: 24px;
+}
